@@ -1,4 +1,4 @@
-# 
+# Polymarket rare Strategy: backtesting & API-integration offers the most advanced Polymarket strategy, with backtesting and API-integration. Ideal for professional traders and
 
 
 
